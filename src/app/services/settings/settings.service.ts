@@ -40,8 +40,9 @@ aplicarTema(tema: string){
 
     this.guardarAjustes();
 }
-
+}
 interface Ajustes {
   temaURL: string;
   tema: string;
 }
+
